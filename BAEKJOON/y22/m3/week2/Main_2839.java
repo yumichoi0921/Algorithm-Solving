@@ -1,4 +1,5 @@
 // 설탕배달
+// dp
 package BAEKJOON.y22.m3.week2;
 
 import java.util.Arrays;
@@ -16,6 +17,5 @@ public class Main_2839 {
 //            System.out.println(i + " " + dp[i]);
         }
         System.out.println(dp[N] >= 10000 ? -1 : dp[N]);
-        // 왜 ==일때는 나중에 틀리지..?
     }
 }
