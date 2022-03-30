@@ -1,6 +1,6 @@
 // 인구이동
 // 시뮬레이션
-package BAEKJOON.y22.m3.week2;
+package BAEKJOON.y22.m3.w2;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

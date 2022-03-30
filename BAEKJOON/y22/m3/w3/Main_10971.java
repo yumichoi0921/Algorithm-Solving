@@ -1,6 +1,6 @@
 // 외판원 순회
 // 백트래킹
-package BAEKJOON.y22.m3.week3;
+package BAEKJOON.y22.m3.w3;
 
 import java.util.Scanner;
 

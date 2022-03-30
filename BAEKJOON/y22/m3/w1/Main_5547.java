@@ -1,6 +1,6 @@
 // 일루미네이션
 //  bfs
-package BAEKJOON.y22.m3.week1;
+package BAEKJOON.y22.m3.w1;
 
 import java.util.LinkedList;
 import java.util.Queue;

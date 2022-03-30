@@ -1,6 +1,6 @@
 // 수학은 비대면강의입니다
 // 완전탐색
-package BAEKJOON.y22.m3.week2;
+package BAEKJOON.y22.m3.w2;
 
 import java.util.Scanner;
 

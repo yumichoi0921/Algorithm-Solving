@@ -1,5 +1,5 @@
 // 피로도
-package BAEKJOON.y22.m3.week1;
+package BAEKJOON.y22.m3.w1;
 
 import java.util.Scanner;
 

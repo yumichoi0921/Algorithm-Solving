@@ -1,5 +1,5 @@
 // 봄버맨
-package BAEKJOON.y22.m3.week2;
+package BAEKJOON.y22.m3.w2;
 
 import java.util.LinkedList;
 import java.util.Queue;

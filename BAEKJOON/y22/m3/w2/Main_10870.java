@@ -1,6 +1,6 @@
 //피보나치 수5
 // dp
-package BAEKJOON.y22.m3.week2;
+package BAEKJOON.y22.m3.w2;
 
 import java.util.Scanner;
 

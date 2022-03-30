@@ -1,6 +1,6 @@
 // 미로탐색
 // bfs
-package BAEKJOON.y22.m3.week2;
+package BAEKJOON.y22.m3.w2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

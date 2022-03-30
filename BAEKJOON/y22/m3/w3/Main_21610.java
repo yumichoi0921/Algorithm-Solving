@@ -1,6 +1,6 @@
 // 마법사상어와 비바라기
 // 시뮬레이션
-package BAEKJOON.y22.m3.week3;
+package BAEKJOON.y22.m3.w3;
 
 import java.util.ArrayList;
 import java.util.Scanner;

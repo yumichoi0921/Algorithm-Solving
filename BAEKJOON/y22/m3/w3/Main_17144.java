@@ -1,7 +1,7 @@
 // 미세먼지 안녕!
 // 시뮬레이션
 // 사방탐색
-package BAEKJOON.y22.m3.week3;
+package BAEKJOON.y22.m3.w3;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

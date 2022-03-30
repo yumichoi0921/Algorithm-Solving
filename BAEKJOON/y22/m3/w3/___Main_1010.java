@@ -6,7 +6,7 @@
 // -> k가 이미 뽑혔기 때문에 n개에서 하나를 빼고 남은 n-1개 중에서 r-1개를 뽑는다. (뽑아야하는 r개에서 k가 하나 뽑혔으므로 r-1개를 뽑아야 함)
 // k가 포함되지 않은 부분집합의 개수 = n-1Cr
 // -> k가 포함되지 않음을 알기 때문에 n개에서 하나를 뺀 n-1개 중에서 r개를 뽑는다.(뽑아야 하는 r에서 아무것도 안뽑혔으므로 r개를 뽑아야 함)
-package BAEKJOON.y22.m3.week3;
+package BAEKJOON.y22.m3.w3;
 
 import java.util.Scanner;
 

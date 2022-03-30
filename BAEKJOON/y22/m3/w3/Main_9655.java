@@ -1,6 +1,6 @@
 // 돌게임
 // dp
-package BAEKJOON.y22.m3.week3;
+package BAEKJOON.y22.m3.w3;
 
 import java.util.Scanner;
 
