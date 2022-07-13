@@ -1,4 +1,4 @@
-package Programmers.y22.m6.w3;
+package Programmers.y22.m6.w4;
 
 public class 정수_삼각형 {
 
@@ -13,9 +13,6 @@ public class 정수_삼각형 {
 
         answer = triangle[0][0];
 
-
         return answer;
     }
-
-
 }
